@@ -50,7 +50,7 @@ makeDraggableByHandle(
 
 # Example
 
-For full example, please refer to the `sample` app.
+For full example, please refer to the `DragHandleBottomSheetExample` app.
 
 Also you can browse the issue labeled as question [here](https://github.com/tentenacy/DragHandleBottomSheet/issues)
 
