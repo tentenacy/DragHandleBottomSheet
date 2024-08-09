@@ -16,14 +16,6 @@ When scrolling within Bottom Sheet Dialog(BSD), unexpected behavior occurs when 
 **settings.gradle**
 
 ```groovy
-dependencies {
-    implementation 'com.github.tentenacy:DragHandleBottomSheet:1.0.0'
-}
-```
-
-**build.gradle(app)**
-
-```groovy
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -32,6 +24,15 @@ dependencyResolutionManagement {
 	}
 }
 ```
+
+**build.gradle(app)**
+
+```groovy
+dependencies {
+    implementation 'com.github.tentenacy:DragHandleBottomSheet:1.0.0'
+}
+```
+
 
 # Usage
 
